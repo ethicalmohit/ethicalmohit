@@ -1,9 +1,9 @@
 ### Hey there! 👋
 
-🚀 **Site Reliability Engineer (SRE)** with a passion for building resilient and scalable systems. Based in India, I've been optimizing infrastructure, managing distributed systems on public and private cloud to ensure seamless performance.
+🚀 **Site Reliability Engineer(SRE)** with a passion for building resilient and scalable systems. Based in India, I've been optimizing infrastructure, and managing distributed systems on public/private cloud to ensure seamless performance.
 
 #### 🔧 What I Do:
-- **SRE/DevOps** wizardry: from managing cloud infrastructures to automating CI/CD pipelines.
+- **SRE/DevOps**: At Dyte.io - Overseeing AWS and GCP Kubernetes infrastructure, enhancing reliability and resilience, and leading incident management processes.
 - **Security Enthusiast**: Deep into security including SOC-2, ISO-27001 compliance, and threat detection.
 - **Automation Lover**: Obsessed with IaC, Terraform, and pushing the limits of GitOps for AWS and GCP.
   
@@ -20,8 +20,7 @@
 - 💼 [LinkedIn](https://linkedin.com/in/ethicalmohit)
 - 📧 [Email](mailto:mail@imohit.me)
 
-#### ⚡ Awards and Publications:
-- I got **RedHat Hall of Fame** for reporting security vulnerability! 🏆
+#### ⚡ Publications:
 - I’ve also written articles on **OpenTelemetry**, please check them out [here](https://tech.bureau.id).
 
 #### 🧑‍💻 Tech Stack:
